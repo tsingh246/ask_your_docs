@@ -1,0 +1,2 @@
+Qlik Sense allows users to create dashboards and analytics apps.
+It supports data connections to multiple sources.

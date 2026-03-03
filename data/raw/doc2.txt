@@ -1,0 +1,2 @@
+Qlik Replicate enables real-time data replication.
+It supports CDC from Oracle, SQL Server, and SAP.
